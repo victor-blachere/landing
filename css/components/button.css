@@ -1,0 +1,29 @@
+.btnorange {
+  background-color: #FC997C;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: whitesmoke;
+  font-weight: bold;
+  font-family: Roboto;
+  transition: color 0.4s ease;
+}
+
+.btnorange:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.btn {
+  padding: 15px 20px;
+  color: #FC997C;
+  font-weight: bold;
+  font-family: Roboto;
+  font-size: 18px;
+  transition: color 0.4s ease;
+}
+
+.btn:hover{
+  color: black;
+  text-decoration: none;
+}
+
